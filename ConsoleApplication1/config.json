@@ -1,0 +1,21 @@
+﻿{
+  "images": [
+    {
+      "id": "2008-R2",
+      "operatingsystem": "Windows Server 2008 R2",
+      "major": 6,
+      "minor": 1
+    },
+    {
+      "id": "2012",
+      "operatingsystem": "Windows Server 2012",
+      "major": 7,
+      "minor": 1
+    }
+
+  ],
+  "settings": {
+    "server": "foo.example.com",
+    "path": "c:\\Data\\Foo"
+  }
+}
